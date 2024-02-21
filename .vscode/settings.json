@@ -1,0 +1,8 @@
+{
+"python.formatting.provider": "black",
+"[python]": {
+"editor.wordBasedSuggestions": "matchingDocuments",
+"editor.defaultFormatter": "ms-python.black-formatter",
+"editor.formatOnSave": true
+}
+}  
